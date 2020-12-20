@@ -1,0 +1,14 @@
+{
+    "name": "@types/react-native-navigation-apps",
+    "version": "1.0.27",
+    "description": "Open & Navigate With External Navigation Apps (Waze,GoogleMaps,iOS Maps) from react native",
+    "license": "ISC",
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eranabir/react-native-navigations-apps.git"
+      },
+    "scripts": {},
+    "dependencies": {},
+}
